@@ -44,7 +44,7 @@ $theme_options = merlin_theme_options();
 
 				<h2> this is another test </h2>
 
-				<h3> git test </h3>
+				<h3> git test 2.1.04 </h3>
 
 					<?php merlin_site_logo(); ?>
 					<?php merlin_site_title(); ?>
